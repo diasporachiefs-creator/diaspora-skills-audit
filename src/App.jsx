@@ -5,7 +5,7 @@ const FIELDS = [
   { id: "expertise", label: "What People Come To You For", placeholder: "e.g. Friends always ask me for advice on managing money and budgeting...", hint: "What do people naturally seek your advice or help on?" },
   { id: "strength", label: "Your Natural Superpower", placeholder: "e.g. I'm great at breaking down complex ideas so anyone can understand them...", hint: "How do you naturally operate — teaching, connecting, building systems, inspiring?" },
   { id: "audience", label: "Who You Want To Serve", placeholder: "e.g. Diaspora professionals in corporate who want to start a side business...", hint: "Describe the person you most want to help — the more specific, the better." },
-  { id: "goal", label: "Your Online Income Goal", placeholder: "e.g. I want to make £3k/month consulting and eventually launch an online course...", hint: "What does financial freedom look like for you online?" },
+  { id: "goal", label: "Your Online Income Goal", placeholder: placeholder: "e.g. I'd love to earn an extra £1-2k a month on the side using my professional skills...", hint: hint: "Have you thought about earning extra income from what you already know? What would that look like for you?" },
 ];
 
 const MAILCHIMP_FORM_ACTION = "https://YOUR_LIST.us21.list-manage.com/subscribe/post-json";
